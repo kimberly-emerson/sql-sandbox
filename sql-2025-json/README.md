@@ -1,6 +1,8 @@
 # AdventureWorks2025 Organizational Data Pipeline
 
-This project showcases SQL Server 2025’s new JSON functions with practical examples. 
+🚀 SQL SERVER 2025 + JSON = API‑READY DATA PIPELINES
+
+A full SQL Server 2025 pipeline that transforms HR hierarchies into API‑ready JSON outputs.
 
 It demonstrates how SQL Server 2025 can model organizational hierarchies using **relational + JSON features**. The pipeline progresses from raw HR tables → consolidated views → structured tables → JSON aggregation → flattened query output.  
 
